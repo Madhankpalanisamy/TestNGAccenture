@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite01]">
+  <test name="Test01">
+    <classes>
+      <class name="com.accenture.testng.NewTest03"/>
+    </classes>
+  </test> <!-- Test01 -->
+</suite> <!-- Failed suite [Suite01] -->
